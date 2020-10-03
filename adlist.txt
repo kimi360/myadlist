@@ -8,3 +8,7 @@ csdn.net##.login-mark
 163.com##.ns_area_textlink
 163.com###wljd
 zhihu.com##.AdblockBanner
+smzdm.com###global-search > .z-clearfix.search-inner > .download
+smzdm.com###search-form > .hot-words
+smzdm.com##.footer-floating-layer
+smzdm.com##.J_index_elevator
