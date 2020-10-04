@@ -12,6 +12,7 @@ csdn.net##.login-mark
 163.com###lazy_subfoot_js > .subfoot > .subfoot_wrap.ne_area
 163.com##.clearfix.post_area.post_content > .newsapp-qrcode
 kaola.com###indexleft > .bottomImg
+kaola.com###btmlist
 zhihu.com##.AdblockBanner
 smzdm.com###global-search > .z-clearfix.search-inner > .download
 smzdm.com###search-form > .hot-words
