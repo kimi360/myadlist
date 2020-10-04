@@ -8,6 +8,7 @@ csdn.net##.login-mark
 163.com##.ns_area_textlink
 163.com###wljd
 163.com###js_N_nav > .clearfix.ntes-nav-main > .c-fr > .ntes-nav-inside > li
+163.com###js_N_navLoginBefore > .c-fl.JS_NTES_LOG_FE.ntes-nav-select-wide.ntes-nav-select.js_N_navSelect
 163.com###lazy_subfoot_js > .subfoot > .subfoot_wrap.ne_area
 zhihu.com##.AdblockBanner
 smzdm.com###global-search > .z-clearfix.search-inner > .download
