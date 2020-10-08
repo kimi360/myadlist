@@ -28,3 +28,5 @@ jd.com###J_mobile > .mobile_txt.dt
 jd.com###J_qrmobile > .sk_mod_er_qc
 jd.com###J_qrmobile > .sk_mod_er_mobile_a
 jd.com###hotwords
+iqiyi.com###rightPlayList > .body-inner > .v_scroll_plist_content.side-content > .padding-box > .qy-player-side-op
+iqiyi.com###flashbox > .iqp-player > .iqp-player > iqpdiv > iqpdiv > .iqp-box-integral > .iqp-integral-inner
