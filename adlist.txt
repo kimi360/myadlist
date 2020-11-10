@@ -4,6 +4,7 @@
 51cto.com##.footer_mask
 csdn.net###passportbox
 csdn.net##.login-mark
+csdn.net##.csdn-redpack-container
 163.com##.sidebarshow.ns_sidebar
 163.com##.ns_area_textlink
 163.com###wljd
