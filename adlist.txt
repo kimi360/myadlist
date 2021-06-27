@@ -28,6 +28,7 @@ smzdm.com###global-search > .z-clearfix.search-inner > .download
 smzdm.com###search-form > .hot-words
 smzdm.com##.footer-floating-layer
 smzdm.com##.J_index_elevator
+smzdm.com###content > div.content-inner > div.guide-layer
 jd.com###J_mobile > .mobile_static
 jd.com###J_mobile > .mobile_txt.dt
 jd.com###J_qrmobile > .sk_mod_er_qc
