@@ -22,10 +22,8 @@ kaola.com###j-search_suggent_hintlist > li > .suggestitem
 kaola.com###indexleft > .bottomImg
 kaola.com###btmlist
 zhihu.com##.AdblockBanner
+smzdm.com###footer
 smzdm.com###elevator
-smzdm.com###footer > div.footer-inner.z-clearfix:first-child > div.footer-left > div.footer-l-btm
-smzdm.com###footer > div.footer-inner.z-clearfix:first-child > div.footer-left > div.footer-l-credit
-smzdm.com###footer > div.footer-inner.z-clearfix:first-child > div.footer-right
 smzdm.com###global-search > .z-clearfix.search-inner > .download
 smzdm.com###search-form > .hot-words
 smzdm.com##.footer-floating-layer
