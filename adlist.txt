@@ -14,6 +14,7 @@ csdn.net##.csdn-redpack-container
 163.com###js_N_navLoginBefore > .c-fl.JS_NTES_LOG_FE.ntes-nav-select-wide.ntes-nav-select.js_N_navSelect
 163.com###lazy_subfoot_js > .subfoot > .subfoot_wrap.ne_area
 163.com##.clearfix.post_area.post_content > .newsapp-qrcode
+163.com##a.newsapp-qrcode:nth-child(8) > img
 kaola.com###j-right_bar_new > .clearfix > li > .j-checkin_btn.checkin
 kaola.com###j-right_bar_new > .clearfix > .right-bar-item > .m-app2-1.m-app2
 kaola.com###rightBarNew > .clearfix > li > .checkin
