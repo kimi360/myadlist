@@ -15,6 +15,7 @@ csdn.net##.csdn-redpack-container
 163.com###lazy_subfoot_js > .subfoot > .subfoot_wrap.ne_area
 163.com##.clearfix.post_area.post_content > .newsapp-qrcode
 163.com##a.newsapp-qrcode:nth-child(8) > img
+163.com###js_festival_wrap > div.ne_area.ne_index_area.ne_festival_area:nth-child(3) > div.cm_area.mt40.ns_area_synthesis.cm_area_show:nth-child(17) > div.col_lm:first-child > div:last-child
 kaola.com###j-right_bar_new > .clearfix > li > .j-checkin_btn.checkin
 kaola.com###j-right_bar_new > .clearfix > .right-bar-item > .m-app2-1.m-app2
 kaola.com###rightBarNew > .clearfix > li > .checkin
@@ -29,6 +30,10 @@ smzdm.com###global-search > .z-clearfix.search-inner > .download
 smzdm.com###search-form > .hot-words
 smzdm.com##.footer-floating-layer
 smzdm.com##.J_index_elevator
+smzdm.com###global-nav > div.nav-inner.z-clearfix > div.nav-controls:last-child > ul.control-list:first-child > li.app-entry:nth-child(2) > a
+smzdm.com###global-nav > div.nav-inner.z-clearfix > div.nav-controls:last-child > ul.control-list:first-child > li:nth-child(3) > a
+smzdm.com###content > div.content-inner > div.ranking-list.J_feed_hot_index:nth-child(7) > div.z-column-head.z-clearfix:first-child > div.feed-hot-tab.J_hot_tab:nth-child(2) > span:nth-child(5)
+smzdm.com###content > div.content-inner > div.ranking-list.J_feed_hot_index:nth-child(7) > div.z-column-head.z-clearfix:first-child > div.feed-hot-tab.J_hot_tab:nth-child(2) > span:nth-child(3)
 jd.com###J_mobile > .mobile_static
 jd.com###J_mobile > .mobile_txt.dt
 jd.com###J_qrmobile > .sk_mod_er_qc
