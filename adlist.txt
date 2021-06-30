@@ -51,3 +51,5 @@ baidu.com###s-top-left > a.mnav.c-font-normal.c-color-t:nth-child(5)
 appinn.com###content_box > section.featured-section.clearfix
 appinn.com###latest-posts > article.test.latestPost.post-box.vertical:nth-child(2)
 appinn.com###site-footer > div.copyrights
+appinn.com###text-9 > div.textwidget:last-child > p:nth-child(2)
+appinn.com###text-9 > div.textwidget:last-child > p:last-child
