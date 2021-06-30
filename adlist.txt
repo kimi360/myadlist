@@ -1,7 +1,7 @@
 ! Title: Kimi's adblock list
 ! Expires: 1 day (update frequency)
 
-iam.wasu.cn##.open.pop-up
+iam.wasu.cn##div.pop-up.open
 51cto.com##.footer_mask
 51cto.com###login_iframe_mask
 csdn.net###passportbox
