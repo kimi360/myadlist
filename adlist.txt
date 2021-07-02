@@ -94,3 +94,26 @@ smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-hea
 163.com##.mod_news_download
 !页脚菜单
 163.com##.subfoot
+
+!------京东------
+!首页头部右侧手机二维码
+jd.com##.mobile_static
+!搜索栏热搜关键词
+jd.com###hotwords
+!首页头部菜单-分割线、企业采购、手机京东
+jd.com###shortcut > div > ul.fr > li:nth-child(8)
+jd.com###shortcut > div > ul.fr > li:nth-child(9)
+jd.com###shortcut > div > ul.fr > li:nth-child(14)
+jd.com###shortcut > div > ul.fr > li:nth-child(15)
+!详情页头部菜单-分割线、企业采购、手机京东
+jd.com###shortcut-2014 > div > ul.fr > li:nth-child(8)
+jd.com###shortcut-2014 > div > ul.fr > li:nth-child(9)
+jd.com###shortcut-2014 > div > ul.fr > li:nth-child(14)
+jd.com###shortcut-2014 > div > ul.fr > li:nth-child(15)
+!页脚版权信息
+jd.com##.mod_copyright
+!详情页侧边栏二维码、反馈按钮
+jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-qrcode
+jd.com##.J-trigger.jdm-toolbar-tab.jdm-tbar-tab-feedback
+!秒杀页侧边栏二维码
+jd.com##.sk_mod_er_mobile
