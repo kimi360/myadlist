@@ -145,3 +145,9 @@ kaola.com##.bottomImg
 !首页页脚服务及版权信息
 kaola.com###aboutNEST
 kaola.com###btmlist
+
+!----哔哩哔哩----
+!登录popup框
+bilibili.com##.van-popover.van-popper
+!页脚网站信息及合作机构
+bilibili.com##.partner.b-footer-wrap
