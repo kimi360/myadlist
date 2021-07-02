@@ -11,12 +11,14 @@ iplaysoft.com###section_postbanner
 !首页文章列表广告
 iplaysoft.com###postlist > div:nth-child(2)
 iplaysoft.com###postlist > div.wwads-cn.wwads-horizontal
+!侧边栏-赞助商
+iplaysoft.com###sidebar > ul > div
 !页脚站点信息
-www.iplaysoft.com##.ft_info
+iplaysoft.com##.ft_info
 !详情页微信公众号二维码
-www.iplaysoft.com##.post_wechat_qr
+iplaysoft.com##.post_wechat_qr
 !详情页打赏页面
-www.iplaysoft.com##.donate
+iplaysoft.com##.donate
 
 !----荔枝数码----
 !首页底部版权信息
