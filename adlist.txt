@@ -147,6 +147,11 @@ passport.jd.com##.tips-wrapper
 !----网易考拉----
 !首页头部图片
 kaola.com###topnotice
+!头部左侧菜单-手机考拉
+kaola.com###topNavLeft2
+!头部右侧菜单-消费者权益、更多
+kaola.com##.cinform.f-hkdn.f-hkdnact
+kaola.com##.dropmenu.more
 !首页侧边栏-签到、APP下载按钮
 kaola.com##.checkin
 kaola.com##.m-app2.m-app2-1
