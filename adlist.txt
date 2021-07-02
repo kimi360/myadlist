@@ -68,6 +68,12 @@ smzdm.com##a[href="https://shangjia.smzdm.com/"]
 !排行榜-达人、品牌
 smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(3)
 smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(5)
+!爆料页爆料必读、视频讲解、商家爆料须知
+smzdm.com###content > div > div > div:nth-child(2) > div.read > div.must-read
+smzdm.com###content > div > div > div:nth-child(2) > div.read > div.video-view
+smzdm.com##.merchants-reported.z-clearfix
+!好文详情页右侧写文章图片
+post.smzdm.com##.xiewenzhang
 
 !------网易------
 !头部左侧侧多余菜单-网易红彩、邮箱大师、网页云课堂
