@@ -22,11 +22,6 @@ kaola.com###rightBarNew > .clearfix > li > .m-app2-1.m-app2
 kaola.com###j-search_suggent_hintlist > li > .suggestitem
 kaola.com###indexleft > .bottomImg
 kaola.com###btmlist
-smzdm.com###global-search > .z-clearfix.search-inner > .download
-smzdm.com###global-nav > div.nav-inner.z-clearfix > div.nav-controls:last-child > ul.control-list:first-child > li.app-entry:nth-child(2) > a
-smzdm.com###global-nav > div.nav-inner.z-clearfix > div.nav-controls:last-child > ul.control-list:first-child > li:nth-child(3) > a
-smzdm.com###content > div.content-inner > div.ranking-list.J_feed_hot_index:nth-child(7) > div.z-column-head.z-clearfix:first-child > div.feed-hot-tab.J_hot_tab:nth-child(2) > span:nth-child(5)
-smzdm.com###content > div.content-inner > div.ranking-list.J_feed_hot_index:nth-child(7) > div.z-column-head.z-clearfix:first-child > div.feed-hot-tab.J_hot_tab:nth-child(2) > span:nth-child(3)
 jd.com###J_mobile > .mobile_static
 jd.com###J_mobile > .mobile_txt.dt
 jd.com###J_qrmobile > .sk_mod_er_qc
@@ -88,3 +83,9 @@ smzdm.com##.footer-floating-layer
 !侧边栏
 smzdm.com###elevator
 smzdm.com##.J_index_elevator
+!头部菜单-集团官网、值品牌计划
+smzdm.com##a[href="https://www.zhidemai.com"]
+smzdm.com##a[href="https://shangjia.smzdm.com/"]
+!排行榜-达人、品牌
+smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(3)
+smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(5)
