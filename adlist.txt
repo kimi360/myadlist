@@ -22,12 +22,7 @@ kaola.com###rightBarNew > .clearfix > li > .m-app2-1.m-app2
 kaola.com###j-search_suggent_hintlist > li > .suggestitem
 kaola.com###indexleft > .bottomImg
 kaola.com###btmlist
-smzdm.com###footer
-smzdm.com###elevator
 smzdm.com###global-search > .z-clearfix.search-inner > .download
-smzdm.com###search-form > .hot-words
-smzdm.com##.footer-floating-layer
-smzdm.com##.J_index_elevator
 smzdm.com###global-nav > div.nav-inner.z-clearfix > div.nav-controls:last-child > ul.control-list:first-child > li.app-entry:nth-child(2) > a
 smzdm.com###global-nav > div.nav-inner.z-clearfix > div.nav-controls:last-child > ul.control-list:first-child > li:nth-child(3) > a
 smzdm.com###content > div.content-inner > div.ranking-list.J_feed_hot_index:nth-child(7) > div.z-column-head.z-clearfix:first-child > div.feed-hot-tab.J_hot_tab:nth-child(2) > span:nth-child(5)
@@ -81,3 +76,15 @@ appinn.com###latest-posts > article:nth-child(2)
 appinn.com###text-9 > div.textwidget:last-child > p:nth-child(2)
 !底部分享提问的说明文字
 appinn.com###text-9 > div.textwidget:last-child > p:nth-child(4)
+!论坛头部提示banner
+meta.appinn.net###banner
+
+!---什么值得买---
+!头部搜索热门关键词
+smzdm.com###search-form > .hot-words
+!页脚footer
+smzdm.com###footer
+smzdm.com##.footer-floating-layer
+!侧边栏
+smzdm.com###elevator
+smzdm.com##.J_index_elevator
