@@ -6,15 +6,6 @@
 csdn.net###passportbox
 csdn.net##.login-mark
 csdn.net##.csdn-redpack-container
-163.com##.sidebarshow.ns_sidebar
-163.com##.ns_area_textlink
-163.com###wljd
-163.com###js_N_nav > .clearfix.ntes-nav-main > .c-fr > .ntes-nav-inside > li
-163.com###js_N_navLoginBefore > .c-fl.JS_NTES_LOG_FE.ntes-nav-select-wide.ntes-nav-select.js_N_navSelect
-163.com###lazy_subfoot_js > .subfoot > .subfoot_wrap.ne_area
-163.com##.clearfix.post_area.post_content > .newsapp-qrcode
-163.com##a.newsapp-qrcode:nth-child(8) > img
-163.com###js_festival_wrap > div.ne_area.ne_index_area.ne_festival_area:nth-child(3) > div.cm_area.mt40.ns_area_synthesis.cm_area_show:nth-child(17) > div.col_lm:first-child > div:last-child
 kaola.com###j-right_bar_new > .clearfix > li > .j-checkin_btn.checkin
 kaola.com###j-right_bar_new > .clearfix > .right-bar-item > .m-app2-1.m-app2
 kaola.com###rightBarNew > .clearfix > li > .checkin
@@ -89,3 +80,37 @@ smzdm.com##a[href="https://shangjia.smzdm.com/"]
 !排行榜-达人、品牌
 smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(3)
 smzdm.com###content > div > div.ranking-list.J_feed_hot_index > div.z-column-head.z-clearfix > div > span:nth-child(5)
+
+!------网易------
+!头部左侧侧多余菜单-网易红彩、邮箱大师、网页云课堂
+163.com###js_N_nav > div > div.c-fl > div > div > ul > li:nth-child(3)
+163.com###js_N_nav > div > div.c-fl > div > div > ul > li:nth-child(5)
+163.com###js_N_nav > div > div.c-fl > div > div > ul > li:nth-child(6)
+!头部右侧多余菜单
+163.com###js_N_nav > div > div.c-fr > ul > li
+!头部网络举报图标
+163.com###wljd
+!登录菜单我的Lofter、花田、同城约会、云阅读、云课堂
+163.com###js_logined_suggest > li:nth-child(3)
+163.com###js_logined_suggest > li:nth-child(4)
+163.com###js_logined_suggest > li:nth-child(5)
+163.com###js_logined_suggest > li:nth-child(7)
+163.com###js_logined_suggest > li:nth-child(8)
+!页面-公版计划、竞彩预测、lofter、lofter精选
+163.com##.mod_channel.mod_bohezhibo
+163.com##.mod_synthesis_hongcai
+163.com##.mod_channel.mod_lofter
+163.com##.mod_channel.mod_yunread
+!侧边栏约会、花田、家居精品案例、网页严选
+163.com##.cm_mod_tab.cm_mod_tab2.mod_tongcheng_tab
+163.com##.mod_home_app
+163.com##.cm_mod_tab.cm_mod_tab1.channel_relative_2016.cm_mod_yanxuan
+!侧边栏手机客户端二维码
+163.com##.ns_side_qrcode
+163.com##.newsapp-qrcode
+!页脚网易动态
+163.com##.mod_ntes_stock.mt30
+!页脚手机客户端下载图标
+163.com##.mod_news_download
+!页脚菜单
+163.com##.subfoot
