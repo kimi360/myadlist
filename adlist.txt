@@ -23,7 +23,6 @@ kaola.com###rightBarNew > .clearfix > li > .m-app2-1.m-app2
 kaola.com###j-search_suggent_hintlist > li > .suggestitem
 kaola.com###indexleft > .bottomImg
 kaola.com###btmlist
-zhihu.com##.AdblockBanner
 smzdm.com###footer
 smzdm.com###elevator
 smzdm.com###global-search > .z-clearfix.search-inner > .download
@@ -54,7 +53,7 @@ appinn.com###site-footer > div.copyrights
 appinn.com###text-9 > div.textwidget:last-child > p:nth-child(2)
 appinn.com###text-9 > div.textwidget:last-child > p:last-child
 
-!---荔枝数码---
+!----荔枝数码----
 !首页底部版权信息
 lizhi.io##.copyright-bottom
 !首页底部友情链接
@@ -63,4 +62,7 @@ lizhi.io##.friend-links
 lizhi.io##._bem-footer__hint
 !页面侧边关注有礼
 lizhi.io##div[x-data="{}"]
-!---荔枝数码---
+
+!------知乎------
+!侧边底部版权信息
+zhihu.com##.Footer
