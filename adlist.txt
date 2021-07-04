@@ -69,6 +69,10 @@ smzdm.com##.footer-floating-layer
 !侧边栏
 smzdm.com###elevator
 smzdm.com##.J_index_elevator
+!头部更多-金融、汽车、旅游
+smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(2)
+smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(3)
+smzdm.com###global-nav > div > nav > ul > li:nth-child(6) > ul > li:nth-child(4)
 !头部菜单-集团官网、值品牌计划
 smzdm.com##a[href="https://www.zhidemai.com"]
 smzdm.com##a[href="https://shangjia.smzdm.com/"]
