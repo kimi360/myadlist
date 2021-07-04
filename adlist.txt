@@ -128,8 +128,9 @@ jd.com###shortcut > div > ul.fr > li:nth-child(8)
 jd.com###shortcut > div > ul.fr > li:nth-child(9)
 jd.com###shortcut > div > ul.fr > li:nth-child(14)
 jd.com###shortcut > div > ul.fr > li:nth-child(15)
-!首页页脚版权信息
+!页脚版权信息
 jd.com##.mod_copyright
+jd.com##.footer-2017
 !其他页头部菜单-分割线、企业采购、手机京东
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(8)
 jd.com###shortcut-2014 > div > ul.fr > li:nth-child(9)
