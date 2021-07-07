@@ -112,11 +112,12 @@ post.smzdm.com##.xiewenzhang
 163.com##.mod_synthesis_hongcai
 163.com##.mod_channel.mod_lofter
 163.com##.mod_channel.mod_yunread
-!侧边栏约会、花田、家居精品案例、网页严选、云课堂
+!侧边栏约会、花田、家居精品案例、网页严选、云课堂、网易智造
 163.com##.cm_mod_tab.cm_mod_tab2.mod_tongcheng_tab
 163.com##.mod_home_app
 163.com##.cm_mod_tab.cm_mod_tab1.channel_relative_2016.cm_mod_yanxuan
 163.com##.cm_mod_tab.cm_mod_tab1.mt30.channel_relative_2016.mod_yunketang
+163.com##.cm_mod_tab.cm_mod_tab1.channel_relative_2016.mt30
 !侧边栏手机客户端二维码
 163.com##.ns_side_qrcode
 163.com##.newsapp-qrcode
