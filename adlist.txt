@@ -5,6 +5,9 @@
 !首页popup弹框
 iam.wasu.cn##div.pop-up.open
 
+!-----ConoHa-----
+conoha.jp##.gmoGroupHeader.gmoGroupHeader-keepdistance
+
 !-异次元软件世界-
 !首页banner
 iplaysoft.com###section_postbanner
@@ -96,6 +99,8 @@ post.smzdm.com##.xiewenzhang
 163.com###js_N_nav > div > div.c-fr > ul > li
 !头部网络举报图标
 163.com###wljd
+!首页头部左侧知识公路
+163.com###lazy_live_js
 !登录菜单我的Lofter、花田、同城约会、云阅读、云课堂
 163.com###js_logined_suggest > li:nth-child(3)
 163.com###js_logined_suggest > li:nth-child(4)
