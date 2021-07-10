@@ -40,6 +40,8 @@ zhihu.com##.Footer
 !------百度------
 !中部推荐新闻
 baidu.com###s_wrap
+!百度热搜
+baidu.com###s-hotsearch-wrapper
 !页脚菜单
 baidu.com###bottom_layer
 !头部菜单-hao123
